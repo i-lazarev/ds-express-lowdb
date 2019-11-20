@@ -8,7 +8,7 @@ https://github.com/typicode/lowdb
 ### Part 1 - DB setup
 
 Write a CLI application 
-* Create a new folder and a index.js
+* Create a file index.js
 * npm install lowdb
 * Setup lowdb in your code
     * Synchronize it with a file "db.json"
